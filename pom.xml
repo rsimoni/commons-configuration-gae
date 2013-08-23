@@ -180,6 +180,8 @@
 				</executions>
 			</plugin>
 
+			<!-- FIXME add here nexus staging maven plugin -->
+
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-javadoc-plugin</artifactId>
