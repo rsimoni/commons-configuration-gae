@@ -41,14 +41,6 @@
 		</developer>
 	</developers>
 
-	<distributionManagement>
-		<repository>
-			<id>server.archiva</id>
-			<name>Internal Release Repository</name>
-			<url>dav:http://jolokia:8090/archiva/repository/internal</url>
-		</repository>
-	</distributionManagement>
-
 	<issueManagement>
 		<system>Github Issue Tracker</system>
 		<url>https://github.com/rsimoni/commons-configuration-gae/issues</url>
